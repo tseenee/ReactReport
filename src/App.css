@@ -1,0 +1,9 @@
+form {
+  padding: 3em 3em 0em 3em;
+}
+input, button {
+  padding: .5em;
+}
+.todo-container{
+  padding: 1em 3em 0em 3em;
+}
